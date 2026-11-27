@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "239335321008",
+    "firebase_url": "https://simba-chat-e6772-default-rtdb.firebaseio.com",
+    "project_id": "simba-chat-e6772",
+    "storage_bucket": "simba-chat-e6772.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239335321008:android:6f710e7181de62fa1afa75",
+        "android_client_info": {
+          "package_name": "com.example.simbachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239335321008-51hbkp3cfqc1ckl1gcjuc7q8p3ibjarh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simbachat",
+            "certificate_hash": "7037c672f0f9cc6dc2066f11673339b1eff1d7aa"
+          }
+        },
+        {
+          "client_id": "239335321008-m5gn1jqkd74ofvu99atav99jrtl5junq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa9u-OnxtJ9DG76jGai26Ftmfw3SKuKuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239335321008-m5gn1jqkd74ofvu99atav99jrtl5junq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
